@@ -36,7 +36,7 @@
         </div>
     </div>
     <script>
-        const buildUrl = "https://cdn.jsdelivr.net/gh/google-gl-games-schools/99@main/Build";
+        const buildUrl = "https://cdn.jsdelivr.net/gh/google-gl-games-schools/99@eed6711/Build";
         const loaderUrl = buildUrl + "/WebGLBuild.loader.js";
         const config = {
             dataUrl: buildUrl + "/WebGLBuild.data.unityweb",

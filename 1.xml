@@ -50,7 +50,7 @@
 <!-- Additional body modules -->
 <script>
         const hideFullScreenButton = "";
-        const buildUrl = "https://cdn.jsdelivr.net/gh/pegege-classroom/swwq@main/Build";
+        const buildUrl = "https://cdn.jsdelivr.net/gh/pegege-classroom/swwq@eed6711/Build";
         const loaderUrl = buildUrl + "/War The Knights Battle Arena Swords 3D.loader.js";
         const config = {
             dataUrl: buildUrl + "/War The Knights Battle Arena Swords 3D.data.unityweb",
